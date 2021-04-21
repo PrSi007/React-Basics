@@ -13,19 +13,19 @@ const Footer = () => {
             </MDBCol>
             <MDBCol md="6" lg="7" className="text-center text-md-right">
               <a className="fb-ic ml-0">
-                <i className="fab fa-facebook-f white-text mr-lg-4"> </i>
+                <i className="fa fa-facebook-f white-text mr-lg-4"> </i>
               </a>
               <a className="tw-ic">
-                <i className="fab fa-twitter white-text mr-lg-4"> </i>
+                <i className="fa fa-twitter white-text mr-lg-4"> </i>
               </a>
               <a className="gplus-ic">
-                <i className="fab fa-google-plus-g white-text mr-lg-4"> </i>
+                <i className="fa fa-google-plus-g white-text mr-lg-4"> </i>
               </a>
               <a className="li-ic">
-                <i className="fab fa-linkedin-in white-text mr-lg-4"> </i>
+                <i className="fa fa-linkedin-in white-text mr-lg-4"> </i>
               </a>
               <a className="ins-ic">
-                <i className="fab fa-instagram white-text mr-lg-4"> </i>
+                <i className="fa fa-instagram white-text mr-lg-4"> </i>
               </a>
             </MDBCol>
           </MDBRow>
