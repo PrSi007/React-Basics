@@ -30,7 +30,7 @@ const Login = () => {
                     </react.Form>
                 </react.Col >
                 <react.Col className="columns">
-                    <Image src={loginimg} alt="..." class="later"/>
+                    <Image src={loginimg} alt="..." className="later"/>
                 </react.Col>
 
             </react.Row>
