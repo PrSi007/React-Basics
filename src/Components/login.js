@@ -1,7 +1,7 @@
 import * as react from "react-bootstrap";
 import {Image} from "react-bootstrap";
-import '../../src/Components/login.css'
-
+import './login.css'
+import loginimg from './7566.jpg'
 const Login = () => {
 
     return (
@@ -30,7 +30,7 @@ const Login = () => {
                     </react.Form>
                 </react.Col >
                 <react.Col className="columns">
-                    <Image src="./Components/7566.jpg" alt="..."/>
+                    <Image src={loginimg} alt="..." class="later"/>
                 </react.Col>
 
             </react.Row>

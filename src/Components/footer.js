@@ -18,12 +18,6 @@ const Footer = () => {
               <a className="tw-ic">
                 <i className="fa fa-twitter white-text mr-lg-4"> </i>
               </a>
-              <a className="gplus-ic">
-                <i className="fa fa-google-plus-g white-text mr-lg-4"> </i>
-              </a>
-              <a className="li-ic">
-                <i className="fa fa-linkedin-in white-text mr-lg-4"> </i>
-              </a>
               <a className="ins-ic">
                 <i className="fa fa-instagram white-text mr-lg-4"> </i>
               </a>
