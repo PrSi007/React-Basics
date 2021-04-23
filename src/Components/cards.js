@@ -16,7 +16,8 @@ const Cards = () => {
                 <div class="card" style={{ margin: "38px",display: "inline-block" }}>
                     <div class="card-body">
                         <h5 class="card-title">{property.name}</h5>
-                        <h5>{property.stream} {property.section}</h5>
+                        <h5>{property.stream}</h5>
+                        <h5> {property.section}</h5>
                         <p class="card-text">
                             Some quick example text to build on the card title and make up the bulk of the
                             card's content.
